@@ -13,7 +13,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - **Tools:** Jira, Microsoft Azure
 
 ## 🌐 Find Me Around the Web
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-pink)](https://www.linkedin.com/in/jasmine-zheng-082b95151/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-pink)](https://www.linkedin.com/in/jasminezxr/)
 [![Twitter](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/jasmine_codes)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore-pink)](https://github.com/jzxr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Browse-pink)](https://jasminezheng.com)
